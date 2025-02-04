@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "watch": "nodemon index.js"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpadaroFederico/node-hello-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpadaroFederico/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/SpadaroFederico/node-hello-world#readme",
+  "description": ""
+}
